@@ -10,8 +10,8 @@ int main()
     {
         godziny++;
         bakterie=bakterie*2;
-
-    }
     cout << "W godzinie "<<godziny<<" populacja jest rowna:"<<bakterie << endl;
+    }
+
     return 0;
 }
